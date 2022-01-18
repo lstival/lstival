@@ -1,5 +1,5 @@
 <img align="right" height="150" src="https://media.giphy.com/media/NHUONhmbo448/giphy.gif"/>
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/tOFKFDbeh9V7y/giphy.gif"/>
 
 
 - 👋 Hi, I’m Leandro Stival a PhD student at UNICAMP.
