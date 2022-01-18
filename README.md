@@ -1,12 +1,12 @@
 <img align="left" height="150" src="https://media.giphy.com/media/NHUONhmbo448/giphy.gif"/>
-<!-- <img align="left" height="200" src="https://media.giphy.com/media/tOFKFDbeh9V7y/giphy.gif"/> -->
+<img align="right" height="200" src="https://media.giphy.com/media/VFwgoSSIBaN9wcE5B1/giphy.gif"/>
 
 ```
-- 👋 Hi, I’m Leandro Stival a PhD student at UNICAMP.
-- 👀 I’m interested in machine learning, data visualization and python.
-- 🌱 I’m currently learning about supervised machine learning, soccer analysis, transfer learning and ML models explanation.
-- 📫 How to reach me contact through  s.tival@hotmail.com or l263013@dac.unicamp.br
-- 😄 Languages: Portuguese and English
+- 👋 I’m Leandro Stival a PhD student at UNICAMP.
+- 👀 Machine learning, image processing and python have a special place at my ❤️.
+- ♉ 24 years old.
+- 💌 How to reach me contact through s.tival@hotmail.com or l263013@dac.unicamp.br.
+- 📓 On free time a pokemon hunter.
 ```
 
 <!--
