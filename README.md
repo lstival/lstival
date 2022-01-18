@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://media.giphy.com/media/j6MwR2b2DEQz2TS5bV/giphy.gif"/>
+<img align="right" height="150" src="https://media.giphy.com/media/2jMtpIi8mhE8ctiMtK/giphy.gif"/>
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 
