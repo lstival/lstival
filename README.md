@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://media.giphy.com/media/NHUONhmbo448/giphy.gif"/>
+<img align="right" height="200" src="https://media.giphy.com/media/NHUONhmbo448/giphy.gif"/>
 <!-- <img align="right" height="200" src="https://media.giphy.com/media/VFwgoSSIBaN9wcE5B1/giphy.gif"/> -->
 
 ```
