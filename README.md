@@ -2,7 +2,7 @@
 <!-- <img align="right" height="200" src="https://media.giphy.com/media/VFwgoSSIBaN9wcE5B1/giphy.gif"/> -->
 
 ```
-- 👋 I’m Leandro Stival a PhD student at UNICAMP.
+- 👋 I’m Leandro Stival a PhD student at IC/UNICAMP.
 - 👀 Machine learning, image processing and python have a special place at my ❤️.
 - ♉ 24 years old.
 - 💌 How to reach me contact through s.tival@hotmail.com or l263013@dac.unicamp.br.
