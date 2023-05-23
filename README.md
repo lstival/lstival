@@ -4,7 +4,7 @@
 ## 👋 Hi I’m Leandro Stival
 - 🧑🏻‍🎓 PhD student at IC/UNICAMP.
 - 👀 Machine learning, image processing and python have a special place at my ❤️.
-- ♉ 25 years old.
+- ♉ 26 years old.
 - 💌 How to reach me contact through s.tival@hotmail.com or l263013@dac.unicamp.br.
 - 🖧 To find me elsewhere on the internet click [here](https://lstival.github.io/).
 - 🕘 On free time a pokemon hunter.
