@@ -5,7 +5,7 @@
 - 🧠 Postdoctoral Researcher in the Artificial Intelligence Group at Wageningen University
 - 🧑🏻‍🎓 PhD in Computer Science (IC/UNICAMP)
 - 🐍 Fluent Python speaker, powered by coffee ☕ and curiosity
-- 💌 Reach me at s.tival@hotmail.com or leandro.stival@wurl.nl
+- 💌 Reach me at leandro.stival@ic.unicamp.br or leandro.stival@wur.nl
 - 🌍 Find more about my work [here](https://lstival.github.io/)
 - 🧢 When not coding, I’m probably out there as a Pokémon hunter 
 
